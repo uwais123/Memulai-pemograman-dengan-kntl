@@ -1,2 +1,2 @@
-# Memulai-pemograman-dengan-kntl
+# Memulai-pemograman-dengan-kotlin
 
